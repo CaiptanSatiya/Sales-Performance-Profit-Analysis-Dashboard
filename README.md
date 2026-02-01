@@ -40,7 +40,7 @@ This project focuses on developing an **interactive Power BI dashboard** to moni
 
 ---
 
-## Sample Dashboard Screenshots
+## Dashboard Screenshots
 ![Dashboard 1](https://github.com/CaiptanSatiya/Project-Images/blob/main/Screenshot%202026-02-01%20225004.png)  
 ![Dashboard 2](https://github.com/CaiptanSatiya/Project-Images/blob/main/Screenshot%202026-02-01%20225026.png)  
 ![Dashboard 3](https://github.com/CaiptanSatiya/Project-Images/blob/main/Screenshot%202026-02-01%20225100.png)  
